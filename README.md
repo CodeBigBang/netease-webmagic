@@ -1,2 +1,1 @@
-# 本项目是基于WebMagic抓取网易音乐特定数据的第一版，后续会继续改进...
-# This Java Project is the first version of project which used to grab netease website specific data, and will update in the future.
+# This Java Project is the first version of project based on WebMagic Framework which used to grab netease website specific data, and will update in the future.
